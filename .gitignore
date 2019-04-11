@@ -59,3 +59,11 @@ typings/
 
 # next.js build output
 .next
+
+# mac file
+.DS_Store
+/public/.DS_Store
+/src/.DS_Store
+/src/lib/.DS_Store
+/src/models/.DS_Store
+/src/routes/.DS_Store
